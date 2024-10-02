@@ -1,0 +1,3 @@
+[submodule "BeautifulSoup4"]
+	path = BeautifulSoup4
+	url = https://github.com/wention/BeautifulSoup4.git
