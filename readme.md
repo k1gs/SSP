@@ -5,7 +5,7 @@
 
 Simple python steam sale parcer. 
 
-Works with Steamworks Api.
+Works with Steamworks Api. Supports KZT and RUB
 
 This parcer includes that libs for work:
 
